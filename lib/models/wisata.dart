@@ -19,7 +19,8 @@ class Wisata {
         return Wisata(
             id: json['id'],
             nama: json['nama'],
-            lokasi: json['hargaTiket'],
+            lokasi: json['lokasi'],
+            hargaTiket: json['hargaTiket'],
             jamBuka: json['jamBuka'],
             deskripsi: json['deskripsi'],
         );

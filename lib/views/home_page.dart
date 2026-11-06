@@ -92,7 +92,7 @@ class _HomePageState extends State<HomePage> {
                     ),
 
                     Expanded(
-                        child: FutureBuiler<List<wisata>> (
+                        child: FutureBuilder<List<wisata>> (
                             future: daftarWisata,
                             builder: (context, snapshot) {
 
@@ -112,7 +112,7 @@ class _HomePageState extends State<HomePage> {
 
                                 if (!snapshot.hasData || snapshot.data!.isEmpty) {
                                     return const Center(
-                                        child: Text('Bwlum ada data wisata.'),
+                                        child: Text('Belum ada data wisata.'),
                                     );
                                 }
 
