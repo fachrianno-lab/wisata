@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nama": "Curug Cilember",
+    "lokasi": "Cisarua, Bogor, Jawa Barat",
+    "hargaTiket": 25000,
+    "jamBuka": "08.00 - 17.00 WIB",
+    "deskripsi": "Curug Cilember merupakan salah satu destinasi wisata alam di Bogor yang terkenal dengan keindahan air terjun dan suasana hutan yang sejuk. Pengunjung dapat menikmati pemandangan alam, berjalan menyusuri kawasan hutan, dan berfoto."
+  },
+  {
+    "id": 2,
+    "nama": "Taman Desa",
+    "lokasi": "Bogor, Jawa Barat",
+    "hargaTiket": 0,
+    "jamBuka": "07.00 - 17.00 WIB",
+    "deskripsi": "Taman Desa merupakan tempat wisata yang menawarkan suasana hijau dan asri. Tempat ini cocok untuk bersantai bersama keluarga, menikmati udara segar, dan menghabiskan waktu di lingkungan yang nyaman."
+  },
+  {
+    "id": 3,
+    "nama": "Situ Gede",
+    "lokasi": "Bogor, Jawa Barat",
+    "hargaTiket": 10000,
+    "jamBuka": "08.00 - 17.00 WIB",
+    "deskripsi": "Situ Gede merupakan kawasan wisata danau yang dikelilingi pepohonan rindang. Pengunjung dapat menikmati pemandangan danau, bersantai, dan menikmati suasana alam."
+  },
+  {
+    "id": 4,
+    "nama": "Kebun Raya Bogor",
+    "lokasi": "Kota Bogor, Jawa Barat",
+    "hargaTiket": 25000,
+    "jamBuka": "08.00 - 16.00 WIB",
+    "deskripsi": "Kebun Raya Bogor merupakan kawasan konservasi tumbuhan yang memiliki koleksi tanaman beragam. Tempat ini cocok untuk wisata edukasi, rekreasi, dan mengenal keanekaragaman tumbuhan."
+  },
+  {
+    "id": 5,
+    "nama": "Alun-Alun Kota",
+    "lokasi": "Kota Bogor, Jawa Barat",
+    "hargaTiket": 0,
+    "jamBuka": "06.00 - 22.00 WIB",
+    "deskripsi": "Alun-Alun Kota merupakan ruang terbuka publik yang dapat digunakan untuk bersantai, berjalan-jalan, dan berkumpul bersama keluarga maupun teman."
+  }
+]
